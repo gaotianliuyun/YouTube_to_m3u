@@ -93,7 +93,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Hawaiian BGM channel
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752652429/ei/LQZ3aJf4GKe7kucP3svm2QQ/ip/4.236.173.19/id/4bmMiocAhvk.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLP6CryJpVPFFS714DehixQ5IhyOxC3KOWB7h7dZX7FOOp_UnVb4i4L4nddMI-O8aJTBvxAHf2en/spc/l3OVKXomzhsGtAWa7nDtfrs4253xEN-b7BBhdrU0sLyZaFbFbq58dBRNTHYeNjOaCWo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZRcRHO2uJRO-4TYZVpfcxKvoOc0K-N-XETgTV6W52G0CIQC3q2CyBsrycMT1jdxUGGyLRcQhBisQQkENrLOPwCfbiQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Nemo's Dreamscapes
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
