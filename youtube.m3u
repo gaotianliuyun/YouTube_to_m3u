@@ -186,7 +186,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Tzu Chi DaAiVideo
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753343743/ei/n5KBaL_yG5WIy_sP8_7jsA0/ip/52.234.38.91/id/MIqUplvSRWA.10/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNBQEVrw2ajMHaR4amf6U4yreoE-WoYkksy_7mUWIwzJVGcoJJWA8aCMviE-teWT0UknYDsV88f/spc/l3OVKYKW9Fphrr2sHIXpxi1vDZiz8f7yi2Cc6lGp6s_uJbIa173RRRwp3fLhvwQq2uY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKLYVdQsiGv9m-jJ3uO2APNRj0SRXcnuDWa6AA-EpyqtAiAdrBJN_oojo6mj9Xr1SuhhwH_hmcRwYzMBEFXDYkD-bg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", SETN Live News
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
