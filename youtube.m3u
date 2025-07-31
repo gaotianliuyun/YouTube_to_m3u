@@ -171,7 +171,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", TVBS Global News
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753997148/ei/_IqLaNfzJunt2_gPwuPcGA/ip/135.232.184.219/id/QeDff2rtpX4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLOD1KlQAyA7mZLGeXzcPJB5PhrxyrrSPpXStEZa1BbmLd_wg7T9H4laT9WGhnDDeElFABS6AFEy/spc/l3OVKRPWwsRwB50ptCqHIfh7q8G6XPfNQISCU8H0PKyduMbCgeeRtDupImcKv8sgfrw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQaj_4ioErxOtSebNE7me-C6WTcoTBi3xi4GtZy7vRZQCIQDZHxrj4Gk8he6xBKZQElpxovqL9A8_XzvjM3MFflQwlg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Taiwan News" tvg-logo="" tvg-id="", Global News TV
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
