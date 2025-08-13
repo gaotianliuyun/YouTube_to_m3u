@@ -126,7 +126,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", Kansas City Zoo
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755110808/ei/N4mcaLbEOPSDkucPuqWbgQw/ip/145.132.100.179/id/BSUnBPvX9K4.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539854/txs/51539853%2C51539854%2C51539855/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMkGFj5ZyUr8mI2g1sg3jmZxOl-Is8Pg1Jmbk9A9H5_MNU9ELnbWRjg6Tn3J3sGs7gifR8pfP6P/spc/l3OVKabPJnWx_zb8pgaHefmPJ34_wChBde4000scI28f4nLTrzJQg3XQmUgyGPdKOVU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFHW8fAvYewt499GIXxPfajPmsM0pCN5C9Tf3iZSAxG4CIH7A8fjUDEG5rw-GNMRA8tA4vFO-EuGnI4zvQTWkVtVx/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", FOBBV CAM
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
