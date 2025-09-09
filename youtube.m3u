@@ -66,7 +66,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Oko Lele
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757474211/ei/Q5nAaOexB7r92_gP9vnC0Ac/ip/172.212.169.146/id/r8xSEWx21y8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLPiTY6pUsOI5YpcdnhiPeIBfAEv5nzlW-2bpqT408oP8DCQkuXBnK_KezVgQFDWFPgUXTSw4PS2/spc/l3OVKbFikFTYSBsQcr5-VsFPPFxb1bnmvSiK5i4BDx_YFDsJMoFeLgSSM2X_JNxFBYc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY-mo16RzXRmXlWiXIktnoYGoj2ZdMl-VLkjAafhjUewCIQCZ4xIBdcgABRu-Rw3KRhcskLrRKiVXcVe6pHsCHS8P0Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", ARIRANG K-POP
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
