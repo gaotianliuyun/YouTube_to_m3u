@@ -24,7 +24,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Masha and the Bear2
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764236692/ei/NMknae62M67IzN0PwZ2auA0/ip/20.169.77.166/id/E_E80UC2gek.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51659838/txs/51659836%2C51659837%2C51659838/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5SgdNO4cGFVMDy559T-mFcU1ABPxuDxIM2O-w_EMw4kFMO1WUZjJYiiKCptr0wmFz2ZpOcXznfj/spc/6b0G_J9WN8ZpJABQ-WGvtdSZ45fuXYTBbkXevzDeX9qOSEL3UFmrtiMGs8FGCTrpYB0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIgJkc06L_jSmCq4JIWakVSpmO6CxJBJnkhVIAcXsSCJAiB1u9nhu00BXrkxIbcWFOVKiCaqH8oHZsy3RjnJUHrnkA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", WB Kids
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
