@@ -132,7 +132,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", 4K Live Alishan
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765132820/ei/tHU1adW9NLaM2_gPxqGM8Ac/ip/52.176.138.193/id/B6eki-0-w0g.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3D05iotXMfqzDC2Ok7o4LxuzZbOtUVe2hw4yhlEQHv2Equuc5-NmBiSPQH2TAwJi5CKHG9qvob6/spc/wH4QqzoinhtKYFApI5VhnKtrYqq1HM6HoXCD5b14t2x3n8MiqMhqH_aSpIjOec54t6I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRkffkwLENvfOsPhIyQQdCL4TXrms9oaFuqu67C2c7MICIGRVgxNiPG5Wk3osWDAAVKRo-1xmjc62zTdk1Qg-4tCN/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", eqm
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
