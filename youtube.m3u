@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Peppa Pig
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767952929/ei/wX1gafiIKZTC-coP96nDgQE/ip/52.154.19.230/id/j4cGmzl5IZ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3BH35ink7H7EJBP26KWeoQKewkgq-921oCuu8aJyTBQuu_O5o_z4BbqPmDZhbD2gQmoADaeWrSr/spc/wH4Qq_siQ3K5LpHgC-bWkZ1MnZW0NS6jfbLsIyawsW4oqrzb1CnRaY9ndV89UiZvKMM/vprv/1/go/1/ns/gtPrWV3wSNVBkJuy-TRJadkR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/Lw0ifkUytXIiDZlWQCI/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLmgwfvU_LA-fIJ9l89X1MSiZbsiyTCabhHJzHUIDgb8CIQDFrdYgpryct2Jz0W3paSg2aneCG-FhNTCwVobV26ybbQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="" tvg-id="", Lion Family1
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
