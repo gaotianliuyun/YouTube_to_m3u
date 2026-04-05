@@ -87,7 +87,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Cafe Music BGM channel
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775378512/ei/8MvRaZnDKIGDir4P_ciM8Aw/ip/135.232.232.16/id/OaJApbvM1Eg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51819628/txs/51819628%2C51819629%2C51819630%2C51819631%2C51819632/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGLCzPT62tD2NvGNkrKcnkzIJmZIhoBs_JhW_LSvaUoihlL6Y5EKi53GOyepkpWQFsCmzPf6APGU/spc/jlWavQ0K7HCTTHYkBp8tAadFcFZIf9BJewVPju4viZbnhS1TdSHHIJhBR9Zfx85BvRe7SQ/vprv/1/go/1/ns/fyVwostrp2zJ3D5tcEBE9rsU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681/dover/11/n/P5fPwCxpD45HtToOVO0E/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgf_GZmrcgJTTrap-mjFLr-Vo_F_2PGrn6qoiStlD_Q2ICIFgTZiFUjWziI-L1EHSKl4PNuBLqEqhJzgis1OZQ3HyR/file/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Green Music BGM channel
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
@@ -96,7 +96,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Nemo's Dreamscapes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1775360051/ei/04PRacODAcrnir4PmquG0Qo/ip/57.151.129.48/id/q4UO0YmBP0M.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUUZDGKFlZuVB5i5g5EO7AYXbrgwHLgTXPisfZGheFLz8avxHLJth6io3xgqOR0k6pYkBOQLVeweDd0h/spc/jlWavQ8oCY3IBL8TdTe8_jDoo5IC4lwIVkqPRg79qJEKE9aHuHSBEhnH8-DYLHN1PnKpUw/vprv/1/go/1/ns/DX1VEPoI3-hiDVSP1-ndrw0U/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/Y1UXFbuD5IukiF9jhLJ2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgYhyhjXUFnhZciJlxJlXi2kmtI17menZ8HHrkxcRZuNACIEULjc_3ZH7vVB6FYWYRhT9aznCYsXDfxGXLUaeX3m9C/file/index.m3u8
+https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="" tvg-id="", Nature Relax 4K
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
