@@ -129,7 +129,7 @@ https://ytm.yuanhsing.cf/assets/moose_na.m3u
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", FOBBV CAM
-https://ytm.yuanhsing.cf/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1777513200/ei/kF7yaZPbNqz62_gPge_RyAI/ip/64.236.134.58/id/41eq4VzCYc4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51875284/txs/51875283%2C51875284%2C51875285%2C51875286/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwokKhPm_NPxj70hXZ9PqPPFm8HFbZsOF6J4IWzDStomXAzIFzGbjvDhWt2gyYHxPN5I9Ri0a9Hx/spc/96Xrv6j3GhUH6ix653DHnlyWCXPePqYR2U0wNsiFZUwzo3jf7By1t2sxbsKp-Xjg65uirw/vprv/1/go/1/ns/zO4X4UIK8z8DJZ4kutOa-ksU/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682%2C51869322/dover/11/n/cQgYail9O6-Wnf4/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhAOaDa3hthrRldS_ziIFl9FUca7jMB0DPOg0DlcQVlPuTAiEA1V8DZtuGIND1YsxwRO2aYYyhzVVybS4MJhetfuTAlsY%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Live" tvg-logo="" tvg-id="", 4K Live Alishan
 https://ytm.yuanhsing.cf/assets/moose_na.m3u
